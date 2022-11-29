@@ -4,16 +4,14 @@ repo: status
 sites:
   - name: Bookd
     url: https://www.bookd.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: bookd.com
-  baseUrl: /status
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Bookd
   introTitle: "**Bookd** - Service Uptime"
   introMessage: Bookd.com
   navbar:
